@@ -1,0 +1,6 @@
+# 构建过程产物
+build/contact.jpg
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
